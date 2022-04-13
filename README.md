@@ -1,1 +1,1 @@
-# A simple k8s visits web app
+# A simple k8s visits web app (Edited)
